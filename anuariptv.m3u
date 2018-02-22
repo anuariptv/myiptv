@@ -1,4 +1,5 @@
 #EXTM3U
+#RADIO MALAYSIA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_radio/Hot_FM.png" tvg-name="" group-title="RADIO MALAYSIA",HOT FM
 http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1MTkxMDYwNDksImV4cCI6MTUxOTE5MjQ0OX0.-uP435QVKWq8Cn8owexJQek8ISpmBMOR851zJIvqfCg&lan=%5B%22ms%22%5D&setLanguage=true&aw_0_1st.lotame_segments=%5B%5D&listenerid=3c1d293b4fe9a759ebfc1648c6ba8275ace57e0c688196b21f1622ae7f2e6d
 
@@ -86,10 +87,6 @@ http://astro2.rastream.com/era?awparams=companionads%3Atrue%3Btags%3Aradioactive
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png" tvg-name="" group-title="RADIO MALAYSIA",ERA FM
 http://astro2.rastream.com/era
-
-#EXTINF:-1,ERA
-http://astro2.rastream.com/era
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png" tvg-name="" group-title="RADIO MALAYSIA",ERA FM SABAH
 http://astro2.rastream.com/amp-era-kk
