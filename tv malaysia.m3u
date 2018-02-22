@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/40/TV1_Logo_2011.png/revision/latest?cb=20131101030840" tvg-name="" group-title="TV MALAYSIA",TV1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-Vb2cKb860Uk/UUVMnkfkQ0I/AAAAAAAAACs/UrKNsZtz0yE/s1600/tv2_logo.png" tvg-name="" group-title="TV MALAYSIA",TV 2
+https://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/2/2f/TV3.png/revision/latest?cb=20170202140449&path-prefix=ms" tvg-name="" group-title="TV MALAYSIA",TV3
+http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=832fb9ca27ae207caaf9891c3f4a6532
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/2/2f/TV3.png/revision/latest?cb=20170202140449&path-prefix=ms" tvg-name="" group-title="TV MALAYSIA",TV3 BAK
+http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=b4fcb694d58189361aa2e4cb328319f5
+http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=cfc49b13f14ba4944d9efe8d12698506
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" tvg-name="" group-title="TV MALAYSIA",Al-Hijrah
+ http://www.layarperak.tv/media/ahlive.m3u8
+
+#EXTINF:-1, teast2
++http://www.layarku.tv/media/tv3web6.m3u8
+
+#EXTINF:-1, teast3
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:-1, teast
+https://cdn-live.tonton.com.my/out/u/qgeo6we60q9n5/95620/VoMGFqYzE6vHWlNAquFq9sJciVq44pTq/cs/1f9ecf738a38478ab9be26def1d69b7a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/2/2f/TV3.png/revision/latest?cb=20170202140449&path-prefix=ms" tvg-name="" group-title="TV MALAYSIA",TV345
+https://cdn-live.tonton.com.my/out/u/qgeo6we60q9n5/95620/BxeTlqYzE6ZRLmYa-cfc_dtkhChBmfjk/cs/78ac0207157b4a70ae3ef3313b4206c6.mpd
+http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=0e3a199b487efd7eb862565f863cea98
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="" group-title="TV MALAYSIA",TV9
+http://tmg.ustreamix.com/TV9-Malaysia.m3u8?token=1c44f1dfee0f51e6ea97e40ed9389ada
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="" group-title="TV MALAYSIA",TV9 2
+http://tmg.ustreamix.com/TV9-Malaysia.m3u8?token=4309c8b30838ecea1f0103efd5456a05
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="TV MALAYSIA",TV i
+https://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.rtm.gov.my/en/img/logostesentv/parlimen/parlimen.png" tvg-name="" group-title="TV MALAYSIA",RTM PARLIMEN
+https://rtm-live.glueapi.io/smil:rtmch007/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png" tvg-name="" group-title="TV MALAYSIA",BINTANG RTM
+https://rtm-live.glueapi.io/smil:rtmch005.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtm-image.glueapi.io/1024x768/live_stream/5-1News.jpg" tvg-name="" group-title="TV MALAYSIA",NEWS
+https://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI" group-title="TV MALAYSIA",ASTRO AWANI (SD)
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1" group-title="TV MALAYSIA",TV1 SUAJI
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI" group-title="TV MALAYSIA",ASTRO AWANI (HD)
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA" group-title="TV MALAYSIA",BERNAMA NEWS
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
