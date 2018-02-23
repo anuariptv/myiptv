@@ -144,7 +144,6 @@ http://astro3.rastream.com/gegar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="RADIO MALAYSIA",OSAI
 http://astro4.rastream.com/osai
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="RADIO MALAYSIA",988.fm
 http://starrfm.rastream.com/starrfm-988
 
@@ -344,40 +343,13 @@ http://s3.voscast.com:7140/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/1/47251.png" tvg-name="" group-title="RADIO MALAYSIA",MAKLAN FM
 http://hubble.shoutca.st:8031/stream
 
-#INDONESIA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",TRANS 7
-https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",SCTV
-https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",SCTV HD
-https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",INDOSIAR
-https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",INDOSIAR HD
-https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",OCHANNEL
-https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",TRANSTV
-https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",ANTV
-https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",METRO TV
-https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",TV ONE
-https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",KOMPAS TV
- https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",GLOBAL TV
-https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",RTV
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="INDO TV",TVONE
-https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
 
 
-#KOREASELATAN
+
+
+
+
+#KOREA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (Opt-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -405,10 +377,11 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo.jpg" group-title="SOUTH KOREA",YTN
 http://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1/playlist.m3u8
 
-#INDONESIA
 
-# E X T M 3 U 
-#INDON
+
+
+
+#INDONESIA TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA", FIXPOX
 https://stream-ec.dmcdn.net/26/dm/3/x3ifpox/live-2.m3u8
 
@@ -442,12 +415,11 @@ http://118.98.221.131/live/tvedukasi.smil/chunklist_w1625871563_b174000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDONESIA", BANTEN TV
 http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",Trans 7 
 http://us1.dokitv.com/ch/trans7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",Trans 7 SD
- https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s24.postimg.org/6ld67eod1/sctv_id.png" group-title="INDONESIA",SCTV SD
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
