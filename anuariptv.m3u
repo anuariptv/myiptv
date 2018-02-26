@@ -894,6 +894,7 @@ rtmp://119.235.249.60:1935/wesaltv/live
 
 
 #SPORTS_LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SUKAN",
 #EXTINF:-1,UK_sp_7
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
