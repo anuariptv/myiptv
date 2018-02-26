@@ -896,3 +896,29 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1,WesalTV	 
 rtmp://119.235.249.60:1935/wesaltv/live 
 
+
+#SPORTS_LIVE
+#EXTINF:-1,UK_sp_7
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,UK_sp_10
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Arena Sport 1
+http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/568.ts
+#EXTINF:-1,Arena Sport 2
+http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/569.ts
+#EXTINF:-1,Arena Sport 3
+http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/570.ts
+#EXTINF:-1,Arena Sport4
+http://173.212.226.236:8888/live/FREEIPTVLIST.COM/a/571.ts
+#EXTINF:-1,beIN SPORTS 3
+http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12377.ts
+#EXTINF:-1,UK_sp_30
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1,Iraqia_Sport
+http://p4.giffy.be:8080/live/test12345/test12345/27098.ts
+#EXTINF:-1,UK_sp_37
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,Motorvision TV
+http://163.172.210.178:8000/live/5Lvyprs736H7ho/JlRopPjP12owqQ/711.ts
+#EXTINF:-1,ONSPORT HD
+http://163.172.210.178:8000/live/5Lvyprs736H7ho/JlRopPjP12owqQ/756.ts
