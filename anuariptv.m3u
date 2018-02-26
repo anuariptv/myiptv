@@ -943,12 +943,14 @@ http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12385.ts
 http://p4.giffy.be:8080/live/test12345/test12345/27080.ts
 #EXTINF:-1,SP_41
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
 #EXTINF:-1,FR: Bein Sport 1
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11382.ts
 #EXTINF:-1,FR: BEIN SPORT 3 FULL HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11803.ts
 #EXTINF:-1,SP_60
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/106.ts
+
 #EXTINF:-1,SP_73
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/111.ts
 #EXTINF:-1,SP_78
@@ -957,21 +959,22 @@ http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/113.ts
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/114.ts
 #EXTINF:-1,FR: BEINSPORT 2HD
 http://p4.giffy.be:8080/live/test12345/test12345/31766.ts
-#EXTINF:-1,FR: BEINSPORT 3HD
+
+#EXTINF:-1,BEINSPORT 3HD
 http://p4.giffy.be:8080/live/test12345/test12345/31765.ts
 #EXTINF:-1,SP_109
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/13.ts
-#EXTINF:-1,FR: EUROSPORT 1
+#EXTINF:-1,EUROSPORT 1
 http://p4.giffy.be:8080/live/test12345/test12345/31764.ts
-#EXTINF:-1,FR: EUROSPORT 2
+#EXTINF:-1,EUROSPORT 2
 http://p4.giffy.be:8080/live/test12345/test12345/31763.ts
 #EXTINF:-1,SP_125
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/97.ts
 #EXTINF:-1,SP_137
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/116.ts
-#EXTINF:-1,FR: GOLF CHANNEL FULL HD
+#EXTINF:-1,GOLF CHANNEL FULL HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11791.ts
-#EXTINF:-1,FR: Infosport HD
+#EXTINF:-1,Infosport HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11796.ts
 #EXTINF:-1,SP_145
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/98.ts
@@ -983,7 +986,7 @@ https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-340
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 #EXTINF:-1,SP_187
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
-#EXTINF:-1,TR | A SPORT
+#EXTINF:-1,A SPORT
 http://p4.giffy.be:8080/live/test12345/test12345/40104.ts
 #EXTINF:-1,BEIN SPORTS 2HD
 http://p4.giffy.be:8080/live/test12345/test12345/31318.ts
@@ -999,9 +1002,9 @@ http://p4.giffy.be:8080/live/test12345/test12345/31313.ts
 http://p4.giffy.be:8080/live/test12345/test12345/31312.ts
 #EXTINF:-1,BEIN SPORTS 9HD
 http://p4.giffy.be:8080/live/test12345/test12345/31311.ts
-#EXTINF:-1,TR | BEIN SPORTS HD2
+#EXTINF:-1,BEIN SPORTS HD2
 http://p4.giffy.be:8080/live/test12345/test12345/40100.ts
-#EXTINF:-1,TR | BEIN SPORTS HD3
+#EXTINF:-1,BEIN SPORTS HD3
 http://p4.giffy.be:8080/live/test12345/test12345/40099.ts
 #EXTINF:-1,BEIN SPORTS US HD.
 http://p4.giffy.be:8080/live/test12345/test12345/13890.ts
@@ -1087,10 +1090,8 @@ http://p4.giffy.be:8080/live/test12345/test12345/30065.ts
 
 
 
-#MOVIE_BQGAI
+#MOVIE_BGAI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD"
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
-http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/a2mGlFT.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
 https://archive.org/download/Agent_2017/Agent%202017.mp4
