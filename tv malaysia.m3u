@@ -20,8 +20,10 @@ http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=cfc49b13f14ba4944d9efe8d1269850
 
 #EXTINF:-1, teast3
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
 #EXTINF:-1, teast
 https://cdn-live.tonton.com.my/out/u/qgeo6we60q9n5/95620/VoMGFqYzE6vHWlNAquFq9sJciVq44pTq/cs/1f9ecf738a38478ab9be26def1d69b7a.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/2/2f/TV3.png/revision/latest?cb=20170202140449&path-prefix=ms" tvg-name="" group-title="TV MALAYSIA",TV345
 https://cdn-live.tonton.com.my/out/u/qgeo6we60q9n5/95620/BxeTlqYzE6ZRLmYa-cfc_dtkhChBmfjk/cs/78ac0207157b4a70ae3ef3313b4206c6.mpd
 http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=0e3a199b487efd7eb862565f863cea98
