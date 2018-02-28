@@ -1037,9 +1037,6 @@ http://stream.rs.co.th/you-hi/index.m3u8
 
 
 #CHINA
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
-http://www.lengua.com/anthems/China.mp3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg" group-title="CHINA",24/7 Animated Movies
 http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
 
