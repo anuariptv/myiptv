@@ -893,6 +893,83 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 rtmp://119.235.249.60:1935/wesaltv/live 
 
 
+
+
+
+
+
+
+#CHINA
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
+http://www.lengua.com/anthems/China.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn3.thr.com/sites/default/files/2016/12/upcoming_animated_movies_split.jpg" group-title="CHINA",24/7 Animated Movies
+http://live-tx-hdl.huomaotv.cn/live/4bgtCR24082.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://42works.net/wp-content/uploads/2017/01/iStock_000038870628Large2.jpg" group-title="CHINA",24/7 Blockbuster Movies
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/17/24/980x490/landscape-1497630992-superhero-movies.jpg" group-title="CHINA",24/7 Superhero Movies
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
+http://61.155.167.11/live/cctv13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network
+http://w1.livecache.yicai.com/hls/live/CBN_hd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network*
+http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eAHHqs0.png" group-title="CHINA",China Weather TV [NoKodi]
+http://webcast.weathertv.cn/tslsChannelLive/qCFIfHB/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png" group-title="CHINA",Dragon TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Gdtv.png" group-title="CHINA",Guangdong TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg" group-title="CHINA",Hunan TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/hunantv-live.jpg" group-title="CHINA",Hunan TV*
+http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg" group-title="CHINA",Jilin TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newscctv.net/data/cctvnewsplatform//images/company/icon_10122_1493349547.jpg" group-title="CHINA",Oriental Finance Pudong
+http://w1.livecache.yicai.com/hls/live/dftv_hd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHINA",Sichuan TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/03/The-Travel-Channel-logo-logotype.png" group-title="CHINA",The Travel Channel
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
+http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
+
+
+
+
+
+
+
+
 #SPORTS_LIVE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SUKAN",
 #EXTINF:-1,UK_sp_7
@@ -933,108 +1010,154 @@ http://163.172.210.178:8000/live/5Lvyprs736H7ho/JlRopPjP12owqQ/756.ts
 
 #EXTINF:-1,AR_AD_Sport1
 http://p4.giffy.be:8080/live/test12345/test12345/27269.ts
+
 #EXTINF:-1,AR_AD_Sport2
 http://p4.giffy.be:8080/live/test12345/test12345/27270.ts
+
 #EXTINF:-1,AR - BeIN Sports 1
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12391.ts
+
 #EXTINF:-1,AR - BeIN Sports 4
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/12385.ts
+
 #EXTINF:-1,AR_ON_SPORT
 http://p4.giffy.be:8080/live/test12345/test12345/27080.ts
+
 #EXTINF:-1,SP_41
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1,FR: Bein Sport 1
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11382.ts
+
 #EXTINF:-1,FR: BEIN SPORT 3 FULL HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11803.ts
+
 #EXTINF:-1,SP_60
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/106.ts
 
 #EXTINF:-1,SP_73
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/111.ts
+
 #EXTINF:-1,SP_78
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/113.ts
+
 #EXTINF:-1,SP_79
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/114.ts
+
 #EXTINF:-1,FR: BEINSPORT 2HD
 http://p4.giffy.be:8080/live/test12345/test12345/31766.ts
 
 #EXTINF:-1,BEINSPORT 3HD
 http://p4.giffy.be:8080/live/test12345/test12345/31765.ts
+
 #EXTINF:-1,SP_109
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/13.ts
+
 #EXTINF:-1,EUROSPORT 1
 http://p4.giffy.be:8080/live/test12345/test12345/31764.ts
+
 #EXTINF:-1,EUROSPORT 2
 http://p4.giffy.be:8080/live/test12345/test12345/31763.ts
+
 #EXTINF:-1,SP_125
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/97.ts
+
 #EXTINF:-1,SP_137
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/116.ts
+
 #EXTINF:-1,GOLF CHANNEL FULL HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11791.ts
+
 #EXTINF:-1,Infosport HD
 http://leaderpro.com.br:25461/live/HelmerPedrosa2/oVrI8lGLCj/11796.ts
+
 #EXTINF:-1,SP_145
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/98.ts
+
 #EXTINF:-1,SP_169
 http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/104.ts
+
 #EXTINF:-1,SP_179
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+
 #EXTINF:-1,SP_181
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
 #EXTINF:-1,SP_187
 http://38.96.148.30:1935/live/omantv2//playlist.m3u8
+
 #EXTINF:-1,A SPORT
 http://p4.giffy.be:8080/live/test12345/test12345/40104.ts
+
 #EXTINF:-1,BEIN SPORTS 2HD
 http://p4.giffy.be:8080/live/test12345/test12345/31318.ts
+
 #EXTINF:-1,BEIN SPORTS 3HD
 http://p4.giffy.be:8080/live/test12345/test12345/31317.ts
+
 #EXTINF:-1,BEIN SPORTS 4HD
 http://p4.giffy.be:8080/live/test12345/test12345/31316.ts
+
 #EXTINF:-1,BEIN SPORTS 5HD
 http://p4.giffy.be:8080/live/test12345/test12345/31315.ts
+
 #EXTINF:-1,BEIN SPORTS 7HD
 http://p4.giffy.be:8080/live/test12345/test12345/31313.ts
+
 #EXTINF:-1,BEIN SPORTS 8HD
 http://p4.giffy.be:8080/live/test12345/test12345/31312.ts
+
 #EXTINF:-1,BEIN SPORTS 9HD
 http://p4.giffy.be:8080/live/test12345/test12345/31311.ts
+
 #EXTINF:-1,BEIN SPORTS HD2
 http://p4.giffy.be:8080/live/test12345/test12345/40100.ts
+
 #EXTINF:-1,BEIN SPORTS HD3
 http://p4.giffy.be:8080/live/test12345/test12345/40099.ts
+
 #EXTINF:-1,BEIN SPORTS US HD.
 http://p4.giffy.be:8080/live/test12345/test12345/13890.ts
+
 #EXTINF:-1,BT SPORT ESPN
 http://p4.giffy.be:8080/live/test12345/test12345/21731.ts
+
 #EXTINF:-1,BT SPORT EXTRA
 http://p4.giffy.be:8080/live/test12345/test12345/21730.ts
+
 #EXTINF:-1,BT SPORT MOSAIC
 http://p4.giffy.be:8080/live/test12345/test12345/21729.ts
+
 #EXTINF:-1,BT SPORTS 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/21736.ts
+
 #EXTINF:-1,BT SPORTS 2 HD
 http://p4.giffy.be:8080/live/test12345/test12345/21735.ts
+
 #EXTINF:-1,BT SPORTS 3 HD
 http://p4.giffy.be:8080/live/test12345/test12345/21734.ts
+
 #EXTINF:-1,CAN-F TVA SPORTS
 http://p4.giffy.be:8080/live/test12345/test12345/35478.ts
+
 #EXTINF:-1,CBS SPORTS NETWORK US
 http://p4.giffy.be:8080/live/test12345/test12345/20948.ts
 
 #EXTINF:-1,Digi Sport 1
 http://p4.giffy.be:8080/live/test12345/test12345/30163.ts
+
 #EXTINF:-1,Digi Sport 2
 http://p4.giffy.be:8080/live/test12345/test12345/30162.ts
+
 #EXTINF:-1,Digi Sport 3
 http://p4.giffy.be:8080/live/test12345/test12345/30161.ts
+
 #EXTINF:-1,Digi Sport 4
 http://p4.giffy.be:8080/live/test12345/test12345/30160.ts
+
 #EXTINF:-1,EUROSPORT HD
 http://p4.giffy.be:8080/live/test12345/test12345/30040.ts
+
 #EXTINF:-1,Eurosport
 http://p4.giffy.be:8080/live/test12345/test12345/30152.ts
 
