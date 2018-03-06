@@ -343,6 +343,27 @@ http://hubble.shoutca.st:8031/stream
 
 
 
+
+
+
+
+#ISLAMIK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ISLAMIK",AL SUNNAH HD
+http://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
+
+ #EXTINF:-1, alquran tv
+http://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #UAE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama (Opt-1)
 http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
