@@ -1348,7 +1348,7 @@ http://p4.giffy.be:8080/live/test12345/test12345/30065.ts
 
 
 #HUAT88TV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="TV MALAYSIA",Huat88_1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="HUAT88",Huat88_1
 http://61.216.177.73/sta/ch1865011.m3u8
 
 #EXTINF:-1,huat88_2
