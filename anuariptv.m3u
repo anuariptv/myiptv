@@ -1343,12 +1343,13 @@ http://p4.giffy.be:8080/live/test12345/test12345/28297.ts
 #EXTINF:-1,SKY SPORT 1 HD
 http://p4.giffy.be:8080/live/test12345/test12345/30065.ts
 
-#88tv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HUATTV"
-#EXTINF:-1,huat88_1
+#HUATTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HUATTV"huat 1
 http://61.216.177.73/sta/ch1865011.m3u8
+
 #EXTINF:-1,huat88_2
 http://61.216.177.73/sta/ch1865011.m3u8
+
 #EXTINF:-1,huat88_3
 http://61.216.177.73/sta/ch1865001.m3u8
 #EXTINF:-1,huat88_4
