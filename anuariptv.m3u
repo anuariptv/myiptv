@@ -15,8 +15,8 @@ http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=b4fcb694d58189361aa2e4cb328319f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" tvg-name="" group-title="TV MALAYSIA",Al-Hijrah
 http://www.layarperak.tv/media/ahlive.m3u8
 
-#EXTINF:-1, test1
-http://www.layarku.tv/media/tv3web6.m3u8
+#EXTINF:-1, IKIM TV
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=292980
 
 #EXTINF:-1, test2
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
@@ -351,7 +351,7 @@ http://hubble.shoutca.st:8031/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ISLAMIK",AL SUNNAH HD
 http://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/1.m3u8
 
- #EXTINF:-1, alquran tv
+#EXTINF:-1, alquran tv
 http://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel7/1.m3u8
 
 
