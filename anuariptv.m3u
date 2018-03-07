@@ -18,8 +18,8 @@ http://www.layarperak.tv/media/ahlive.m3u8
 #EXTINF:-1, IKIM TV
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=292980
 
-#EXTINF:-1, test2
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:-1, ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
 
 #EXTINF:-1, test3
 https://cdn-live.tonton.com.my/out/u/qgeo6we60q9n5/95620/VoMGFqYzE6vHWlNAquFq9sJciVq44pTq/cs/1f9ecf738a38478ab9be26def1d69b7a.m3u8
