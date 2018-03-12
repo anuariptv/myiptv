@@ -18,7 +18,9 @@ http://www.layarperak.tv/media/ahlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-RM2BnR_FQA8/AAAAAAAAAAI/AAAAAAAAAAA/C1r7Uk0uWgc/s900-c-k-no-rj-c0xffffff/photo.jpg" tvg-name="" group-title="TV MALAYSIA", IKIM TV
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1, ASTRO GO SHOP
+https://s3-ap-southeast-1.amazonaws.com/chatbot-rpn/icons/goshop-logo.png
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/chatbot-rpn/icons/goshop-logo.png" tvg-name="" group-title="TV MALAYSIA", ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
 
 #EXTINF:-1, test3
