@@ -15,8 +15,8 @@ http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=b4fcb694d58189361aa2e4cb328319f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" tvg-name="" group-title="TV MALAYSIA",Al-Hijrah
 http://www.layarperak.tv/media/ahlive.m3u8
 
-#EXTINF:-1, IKIM TV
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8?nimblesessionid=292980
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-RM2BnR_FQA8/AAAAAAAAAAI/AAAAAAAAAAA/C1r7Uk0uWgc/s900-c-k-no-rj-c0xffffff/photo.jpg" tvg-name="" group-title="IKIM TV",IKIM TV
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1, ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
