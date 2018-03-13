@@ -23,23 +23,23 @@ http://122.248.32.234:1935/ch26/myStream/playlist.m3u8
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1,BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN TV
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,TEST
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,DHAMMA TV
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
-#EXTINF:-1,iD_23
+#EXTINF:-1,DUTA TV
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:-1,iD_24
+#EXTINF:-1,EFARINA TV
 http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/playlist.m3u8
-#EXTINF:-1,iD_28
+#EXTINF:-1,INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:-1,iD_32
+#EXTINF:-1,BAN TV
 http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
-#EXTINF:-1,iD_33
+#EXTINF:-1,BS NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1,iD_34
+#EXTINF:-1,JAK TV
 https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/index_360_av-p.m3u8
 #EXTINF:-1,iD_35
 http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
@@ -47,55 +47,55 @@ http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
 http://122.248.32.234:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1,iD_37
 http://182.253.193.35:1935/live/myStream1/playlist.m3u8
-#EXTINF:-1,iD_38
+#EXTINF:-1,JEMBER TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1,iD_41
 http://122.248.32.234:1935/ch2/myStream/chunklist.m3u8
-#EXTINF:-1,iD_43
+#EXTINF:-1,MADANI TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
 #EXTINF:-1,iD_44
 http://videostream.indostreamserver.com:1935/madufm/live/chunklist.m3u8
 #EXTINF:-1,iD_57
 http://103.23.201.170:1935/live/livestream/chunklist.m3u8
-#EXTINF:-1,iD_64
+#EXTINF:-1,CH16
 http://122.248.32.234:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1,iD_65
+#EXTINF:-1,CH7
 http://122.248.32.234:1935/ch7/myStream/chunklist.m3u8
-#EXTINF:-1,iD_66
+#EXTINF:-1,CH3
 http://122.248.32.234:1935/ch3/myStream/chunklist.m3u8
-#EXTINF:-1,iD_68
+#EXTINF:-1, PRIMA TV
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
-#EXTINF:-1,iD_69
+#EXTINF:-1,RADAR TASIK MALAYA
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-#EXTINF:-1,iD_72
+#EXTINF:-1,CH9
 http://122.248.32.234:1935/ch9/myStream/chunklist.m3u8
-#EXTINF:-1,iD_77
+#EXTINF:-1,RUAI TV
 http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
-#EXTINF:-1,iD_80
+#EXTINF:-1,LANGODAY
 http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-#EXTINF:-1,iD_83
+#EXTINF:-1,SN TV
 http://svr.sntivi.id:1935/live/sntv/playlist.m3u8
-#EXTINF:-1,iD_87
+#EXTINF:-1,TA TV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1,iD_88
+#EXTINF:-1,TEGAR TV
 http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
-#EXTINF:-1,iD_93
+#EXTINF:-1,TVKU SEMARANG
 https://ssh101.com/m3u8/dyn/tvkusemarang/index.m3u8
-#EXTINF:-1,iD_94
+#EXTINF:-1,TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-#EXTINF:-1,iD_97
+#EXTINF:-1,5VRI BENGKULU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_98
+#EXTINF:-1,TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,iD_99
+#EXTINF:-1,TVRI DKI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
-#EXTINF:-1,iD_100
+#EXTINF:-1,TVRI DKI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_101
+#EXTINF:-1,TVRI JABAR BANDUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_102
+#EXTINF:-1,TVRI JAMBI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_103
+#EXTINF:-1,TVRI JATENG SEMARANG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
 #EXTINF:-1,TVRI KALBAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
