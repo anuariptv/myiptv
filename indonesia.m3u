@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1,iD_1
+#EXTINF:-1,ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1,iD_2
+#EXTINF:-1,AGROPOLITAN
 http://agropolitantv.onlivestreaming.net/agropolitantv/livestream/playlist.m3u8
-#EXTINF:-1,iD_5
+#EXTINF:-1,RAXA TV
 http://video7.stream.mx:1935/raxatv/raxatv/playlist.m3u8
-#EXTINF:-1,iD_7
+#EXTINF:-1,BARAYA TV
 http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
-#EXTINF:-1,iD_8
+#EXTINF:-1,CH16
 http://122.248.32.234:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1,iD_10
+#EXTINF:-1,BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF:-1,iD_11
+#EXTINF:-1,BS NEWS EN
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1,iD_12
+#EXTINF:-1,BS NEWS 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1,iD_13
+#EXTINF:-1,BS NEWS WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1,iD_14
+#EXTINF:-1,CH26
 http://122.248.32.234:1935/ch26/myStream/playlist.m3u8
-#EXTINF:-1,iD_15
+#EXTINF:-1,BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF:-1,iD_17
+#EXTINF:-1,BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,iD_19
+#EXTINF:-1,CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,iD_20
+#EXTINF:-1,TEST
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1,iD_21
+#EXTINF:-1,DHAMMA TV
 http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1,iD_23
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
