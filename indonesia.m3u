@@ -97,39 +97,39 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/inde
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
 #EXTINF:-1,iD_103
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_104
+#EXTINF:-1,TVRI KALBAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_105
+#EXTINF:-1,TVRI NASIONAL SD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,iD_106
+#EXTINF:-1,TVRI KALSEBANJARMSN
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_107
+#EXTINF:-1,TVRI KALTENG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_108
+#EXTINF:-1,TVRI KALTIMSARAMINDA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF:-1,iD_109
+#EXTINF:-1,TVRI LAMPUNG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_110
+#EXTINF:-1,TVRI SULSEL MAKASAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_111
+#EXTINF:-1,TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,iD_112
+#EXTINF:-1,TVRI PAPUA
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_113
+#EXTINF:-1,TVRI RIAU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_114
+#EXTINF:-1,TVRI 14
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_115
+#EXTINF:-1,TVRI SULSEL MAKASAR
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_116
+#EXTINF:-1,TVRI SULTENGPALU
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_117
+#EXTINF:-1,TVRI SULUTMANADO
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_118
+#EXTINF:-1,TVRI SUMBAR PADANG
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_119
+#EXTINF:-1,TVRI SUMSEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
-#EXTINF:-1,iD_122
+#EXTINF:-1,TVMC3
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1,iD_124
+#EXTINF:-1,YM TV
 http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
