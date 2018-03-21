@@ -35,7 +35,7 @@ http://tmg.ustreamix.com/TV3-Malaysia.m3u8?token=0e3a199b487efd7eb862565f863cea9
 http://tmg.ustreamix.com/TV9-Malaysia.m3u8?token=_s-23fbf89db67cfc4d25b10b628c017dc7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/5/51/Logo_tv9_baru.png" tvg-name="" group-title="TV MALAYSIA",TV9 2
-http://tmg.ustreamix.com/TV9-Malaysia.m3u8?token=4309c8b30838ecea1f0103efd5456a05
+http://tmg.ustreamix.com/TV9-Malaysia.m3u8?token=_s-23fbf89db67cfc4d25b10b628c017dc7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-name="" group-title="TV MALAYSIA",TV i
 https://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
