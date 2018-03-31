@@ -24,8 +24,9 @@ https://s3-ap-southeast-1.amazonaws.com/chatbot-rpn/icons/goshop-logo.png
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
 
 
-#EXTINF:-1, test3 tv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/2/2f/TV3.png/revision/latest?cb=20170202140449&path-prefix=ms" tvg-name="" group-title="TV MALAYSIA",TV3
 https://www.layarperak.tv/media/tv3my.m3u8
+
 #EXTINF:-1, test lagi
 http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
